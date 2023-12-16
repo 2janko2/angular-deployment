@@ -2,7 +2,6 @@
   "name": "angular-realworld",
   "version": "0.0.0",
   "license": "MIT",
-  "homepage": "https://2janko2.github.io/angular-deployment/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
